@@ -2,7 +2,7 @@
 	$conf=array(
 		'driver'=>'mysql',
 		'dbhost'=>'localhost',
-		'dbname'=>'exuf3',
-		'dbuser'=>'exuf3',
-		'dbpass'=>'exuf3'
+		'dbname'=>'2daw10_exuf3',
+		'dbuser'=>'2daw10_exuf3',
+		'dbpass'=>'examenuf3'
 		);
